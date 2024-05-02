@@ -1,9 +1,9 @@
  ㅤ ㅤ ㅤㅤ[![GIF](https://github.com/SAIFDEAD/SAIFDEAD/blob/main/SAIFDEAD.gif)](https://github.com/SAIFDEAD)
-   [![𝐃ιϲʀατoʀ](https://github-stats-alpha.vercel.app/api?username=SAIFDEAD "SAIFDEAD")](https://github-stats-alpha.vercel.app/api?username=SAIFDEAD "SAIFDEAD")
+   [![Fr4ncium](https://github-stats-alpha.vercel.app/api?username=SAIFDEAD "SAIFDEAD")](https://github-stats-alpha.vercel.app/api?username=SAIFDEAD "SAIFDEAD")
                                                           
   
 
-<img src="https://readme-typing-svg.herokuapp.com?color=33DD33&width=500&lines=🦋𝐖𝙻𝙴𝙲𝙾𝙼𝙴+𝐓𝚘+𝐒𝙰𝙸𝙵+𝐃𝙸𝙲𝚃𝙰𝚃𝙾𝚁+𝐆𝙸𝚃𝙷𝚄𝙱🌹">
+<img src="https://readme-typing-svg.herokuapp.com?color=33DD33&width=500&lines=🦋Welcome+To+Francium's+GitHub🌹">
 
 
 <!--
@@ -53,4 +53,4 @@ You can click the Preview link to take a look at your changes.
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=SAIFDEAD&show_icons=true&theme=radical)
 
 # Contact 🌺
-<a href="https://t.me/SAIF_DICTATOR"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/balidan_addicted"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
